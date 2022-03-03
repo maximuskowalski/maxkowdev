@@ -1,6 +1,6 @@
 
 # .v4p backup files
 *~.xml
-
+.vscode/*
 # Dynamic plugins .dll
 bin/
