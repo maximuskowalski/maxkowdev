@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/depositphotos_260499760-stock-photo-beautiful-sunset-bridge-batemans-bay.jpg");
+		background: url("images/overlay.png***"), url("../../images/Depositphotos_260499760_L.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2254,7 +2254,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png***"), url("../../images/depositphotos_480927046-stock-photo-broulee-island-joined-mainland-permanent.jpg");
+		background: url("images/overlay.png***"), url("../../images/Depositphotos_480927046_L.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2263,7 +2263,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png***"), url("../../images/depositphotos_260499760-stock-photo-beautiful-sunset-bridge-batemans-bay.jpg");
+		background: url("images/overlay.png***"), url("../../images/trees_ratio.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
