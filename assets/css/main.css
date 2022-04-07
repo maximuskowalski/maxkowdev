@@ -508,6 +508,11 @@ input, select, textarea {
 		letter-spacing: 0.025em;
 	}
 
+section#intro h2 {
+	text-shadow: 5px 5px 2px black;
+}
+
+
 		@media screen and (max-width: 1920px) {
 
 			body, input, textarea, select {
@@ -2270,12 +2275,16 @@ input, select, textarea {
 	}
 
 	figure.maxIsMe {
-		background: url("images/overlay.png"), url("../../images/profile.gimp-600x1000.png");
-		border-radius: 50%;
+		position: relative;
+		/* top: 10px */
+		/* background: url("images/overlay.png"), url("../../images/yofile2.png"); */
+		background: url("../../images/yofile2.png");
+		/* border-radius: 50%; */
 		background-size: cover;
-		border: 2px solid blue;
-		width: 200px;
-		height: 200px;
+		/* border: 2px solid blue; */
+		width: 260px;
+		height: 290px;
+		margin-top: -130px;
 	}
 
 /* Contact */
